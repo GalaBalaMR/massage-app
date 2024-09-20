@@ -1,0 +1,9 @@
+.intro {
+    height: 100vh;
+    width: 100vw;
+    max-width:100%;
+    background-image: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)),url("../../public/storage/img/intro.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
